@@ -2,7 +2,7 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.1.0.
 
-##Install dependent packeges
+## Install dependent packeges
 Run `npm install` from project folder.
 ## Development server
 
