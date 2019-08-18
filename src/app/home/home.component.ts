@@ -27,7 +27,7 @@ export class HomeComponent implements OnInit {
         this.NotAllowed=false;
         this.count = 0
         this.timeoutID = null;
-      }, 20000);
+      }, 60000);
 
     }
 
