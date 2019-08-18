@@ -13,8 +13,9 @@ export class LoginComponent implements OnInit {
   message: boolean = false;
   // @ViewChild('f', { static: false }) signupForm: NgForm;
   constructor(private router: Router, private Auth: AuthService) { }
-  
+
   ngOnInit() {
+    this.Auth.intialUserData()
   }
 
 
